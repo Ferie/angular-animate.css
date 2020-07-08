@@ -1,4 +1,14 @@
-# angular-animate.css
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e8baa7c9-65df-4d61-aedb-cf34603c6b58/deploy-status)](https://app.netlify.com/sites/angular-animate-css/deploys)
+
+# Angular and Animate.css
+
+This is a show case for all the animations that are provided by Animate.css library and how to use them within an Angular project.
+
+This is a better way of using styles against Angular animations.
+
+---
+
+## Default Angular statements
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.1.
 
