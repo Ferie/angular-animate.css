@@ -6,6 +6,8 @@ This is a show case for all the animations that are provided by Animate.css libr
 
 This is a better way of using styles against Angular animations.
 
+[See it in action!](https://angular-animate-css.netlify.app/)
+
 ---
 
 ## Default Angular statements
